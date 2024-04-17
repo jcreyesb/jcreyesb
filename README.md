@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello 👋
 
-<!--
-**jcreyesb/jcreyesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pablo, I'm from Venezuela and I'm an SRE.
 
-Here are some ideas to get you started:
+    I offer consulting hours, you can find a slot here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+    
+    AWS, Terraform, Docker, all the cloud stuff :)
+    Critical thinking, decision-making and problem solving skills
+    Special skills and experience in fast growing startups.
+
+Contact
+--> 
