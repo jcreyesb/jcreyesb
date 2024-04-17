@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Pablo, I'm from Venezuela and I'm an SRE.
+My name is Juan Carlos, I'm from Venezuela and I'm an SRE.
 
     I offer consulting hours, you can find a slot here
 
